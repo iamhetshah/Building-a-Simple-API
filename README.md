@@ -1,16 +1,11 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devmuniz-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devmuniz)
-[![GitHub Profile](https://img.shields.io/badge/GitHub-devMuniz02-181717?logo=github&logoColor=white)](https://github.com/devMuniz02)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devmuniz02.github.io-0F172A?logo=googlechrome&logoColor=white)](https://devmuniz02.github.io/)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-manu02-FFD21E?logoColor=black)](https://huggingface.co/manu02)
-
 # Building A Simple API With Copilot
 
 This repository is the final course project done in Coursera Microsoft Back-End Development with .NET Course
 
 ## Repository Structure
 
-| Path | Description |
-| --- | --- |
+| Path                 | Description                                                           |
+| -------------------- | --------------------------------------------------------------------- |
 | `UserManagementAPI/` | Top-level project directory containing repository-specific resources. |
 
 ## Getting Started
